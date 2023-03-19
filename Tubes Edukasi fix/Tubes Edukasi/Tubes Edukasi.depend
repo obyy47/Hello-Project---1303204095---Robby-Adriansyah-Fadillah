@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672935395 source:c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\oby & ai\tubes edukasi\edukasi.cpp
+	"edukasi.h"
+
+1672935015 source:c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\oby & ai\tubes edukasi\main.cpp
+	"edukasi.h"
+
+1672935009 c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\oby & ai\tubes edukasi\edukasi.h
+	<iostream>
+
